@@ -25,12 +25,12 @@ I’m a **Flutter Developer** and **Python Enthusiast** passionate about buildin
 
 ## 🌟 Featured Projects
 
-### 🍔 [Food Delivery App (Under Development)](https://github.com/msk1523/Food-Delivery)  
+### 🍔 [Food Delivery App ](https://github.com/msk1523/Food-Delivery)  
 - Features a **Stripe Payment Gateway**, **OTP authentication**, and **Firebase Backend**.  
 - Combines **Flutter** for development, **Django** for API management, and **Vultr** for deployment.
 [View on GitHub](https://github.com/msk1523)
 
-### 🍔 [ReliefLink (Under Development)](https://github.com/msk1523/hackathon)  
+### 🍔 [ReliefLink ](https://github.com/msk1523/hackathon)  
 - It is a Relief Application that was built to connect with affected people in a natural disaster and rescue them.
 - Features a **Stripe Payment Gateway for donation**, **Google authentication**, **Connection with other members using the application**, **Alert System in times of crisis** and **Firebase Backend**.
 - Combines **Flutter** for development, **Django** for API management, and **Vultr** for deployment.
