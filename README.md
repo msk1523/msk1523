@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/msk1523/msk1523/main/banner.png)
+![Banner](https://raw.githubusercontent.com/msk1523/msk1523/main/bannerr.png)
 
 # 👋 Hi, I'm Sivakumaran M!
 
