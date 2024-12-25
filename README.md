@@ -4,35 +4,6 @@ I’m a **Flutter Developer** and **Python Enthusiast** passionate about buildin
 
 ---
 
-## 🚀 About Me
-- 🌱 **Currently:** Flutter Developer Intern at **Happy Health Innovations**.
-- 🎓 **Education:** B.Tech in Computer Science and Design Engineering (CGPA: 8.5) at **MVJ College of Engineering, Bangalore**.
-- 🛠️ **Interests:** App Development | Machine Learning | Blockchain Technologies | Cloud Services.
-- 💬 **Ask Me About:** Flutter, Python, Firebase, or Blockchain.
-
----
-
-## 💼 Professional Experience
-
-### **Flutter Developer Intern**  
-*Happy Health Innovations* | *Nov 2024 – Present*  
-- 🌟 Developed cross-platform apps for **iOS** and **Android** using Flutter.  
-- 🔧 Worked with tech stacks like **Firebase**, **Twilio**, and **Google Console**.  
-- 🔄 Revamped an older Android app into a modern cross-platform solution.
-
-### **Python Developer Intern**  
-*Library Solutions (DoScience)* | *Nov 2023 – Jun 2024*  
-- 🚀 Optimized backend systems, boosting efficiency by **70%**.  
-- 🔄 Automated repetitive tasks and improved code quality.  
-- 🤝 Created shared components to simplify workflows for fellow developers.
-
-### **Data Science & Machine Learning Intern**  
-*Rinex Solutions* | *Jul 2022 – Aug 2022*  
-- 📊 Enhanced Python skills through data manipulation and predictive modeling.  
-- 🤖 Contributed to multiple data-centric projects.
-
----
-
 ## 🛠️ Technical Toolbox
 
 ### **Frontend Development**
@@ -54,31 +25,16 @@ I’m a **Flutter Developer** and **Python Enthusiast** passionate about buildin
 
 ## 🌟 Featured Projects
 
-### 🎨 [Personal Portfolio](https://sivakumaran-portfolio.flutterflow.app/)  
-- Built a responsive **portfolio website** using **Flutter**.  
-- Integrated **Firebase** for hosting, real-time updates, and database management.  
-- Showcases a **modular architecture** for adaptability and scalability.  
-[View on GitHub](https://github.com/msk1523)
-
 ### 🍔 [Food Delivery App (Under Development)](https://github.com/msk1523/Food-Delivery)  
 - Features a **Stripe Payment Gateway**, **OTP authentication**, and **Firebase Backend**.  
-- Combines **Flutter** for development, **Django** for API management, and **Vultr** for deployment.  
+- Combines **Flutter** for development, **Django** for API management, and **Vultr** for deployment.
+[View on GitHub](https://github.com/msk1523)
 
----
-
-## 🏆 Achievements & Leadership
-
-- 🏅 **Vice President** of the Literature Society, MVJCE (2023–2024).  
-- 🛠️ **Student Coordinator** of MVJCE’s Technical Fest (**VertechX**) and Cultural Fest (**Swayam**).  
-
----
-
-## 📜 Certifications
-- 🎓 Flutter Application Development  
-- 🎓 Blockchain Technologies  
-- 🎓 Data Science and Machine Learning  
-- 🎓 Microsoft Azure Data Fundamentals  
-
+### 🍔 [ReliefLink (Under Development)](https://github.com/msk1523/hackathon)  
+- It is a Relief Application that was built to connect with affected people in a natural disaster and rescue them.
+- Features a **Stripe Payment Gateway for donation**, **Google authentication**, **Connection with other members using the application**, **Alert System in times of crisis** and **Firebase Backend**.
+- Combines **Flutter** for development, **Django** for API management, and **Vultr** for deployment.
+[View on GitHub](https://github.com/msk1523)
 ---
 
 ## 📫 Let's Connect!
