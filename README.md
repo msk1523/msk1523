@@ -15,7 +15,7 @@ I’m a **Flutter Developer** and **Python Enthusiast** passionate about buildin
 - 🛠️ Django | Flask | Python | REST API  
 
 ### **Blockchain Technologies**
-- 🔗 Solidity | Blockchain | Hyperledger | Ethereum | Rust  
+- 🔗 Solidity | Blockchain | Ethereum
 
 ### **Machine Learning**
 - 🤖 Python (Data Manipulation & Modeling)  
