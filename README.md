@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/msk1523/msk1523/main/banner.png)
 
-# **Sivakumaran M** | Flutter Developer Intern at [Happy Health Innovations](https://www.happyhealthinnovations.com)
+# Hi there, I'm **Sivakumaran M**
 
 ### 🔧 **Tech Stack**
 
