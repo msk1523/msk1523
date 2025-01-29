@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/msk1523/msk1523/main/banner.png)
 
-# Hi there, I'm **Sivakumaran M** 
+# Hi there, I'm **Sivakumaran M**
 
 ### 🔧 **Tech Stack**
 
