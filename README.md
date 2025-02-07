@@ -13,7 +13,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Sivakumaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msk1523&show_icons=true&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff&icon_color=8A2BE2)
+![Sivakumaran's GitHub Stats]()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msk1523&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
 
