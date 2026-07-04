@@ -1,23 +1,117 @@
 ![Banner](https://raw.githubusercontent.com/msk1523/msk1523/main/banner.png)
 
-# Hi there, I'm **Sivakumaran M**
+# Hi there 👋 I'm Sivakumaran M
 
-### 🔧 **Tech Stack** 
+<p align="left">
+  <b>Software Engineer</b> • Backend Developer • AI Enthusiast • DevOps Learner
+</p>
 
-| **Frontend**               | **Backend**                | **Languages**                | **Tools**                   |
-|:---------------------------:|:--------------------------:|:----------------------------:|:---------------------------:|
-| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white) | ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) |
-| ![Flutterflow](https://img.shields.io/badge/Flutterflow-%23009F00.svg?style=flat-square&logo=flutter&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS-%23239120.svg?style=flat-square&logo=css3&logoColor=white) | ![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square&logo=rest&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
+I'm a Software Engineer passionate about building scalable backend systems, AI-powered applications, and cloud-native solutions.
 
-### 📊 **GitHub Stats**
+- 🔭 Currently exploring **AI Observability**, **LLMs**, and **Agentic AI**
+- 🌱 Learning **Go**, **Kubernetes**, and Cloud Infrastructure
+- 💡 Interested in Backend Engineering, Distributed Systems, and MLOps
+- ✍️ I regularly write technical blogs on Medium
+- ⚡ Fun fact: I enjoy understanding how large-scale systems handle millions of events every second.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msk1523&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
+---
 
-### 🌐 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sivakumaran-portfolio.flutterflow.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-kumaran-manivaannan-012a7724a/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mskmss1516@gmail.com)  
+# 💻 Tech Stack
 
+### Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,java,dart,js,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,firebase" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,grafana,prometheus" />
+</p>
+
+---
+
+# 🚀 What I'm Working On
+
+- 🤖 AI Agents
+- 📊 AI Observability
+- 🐳 Dockerized Applications
+- ☁️ Cloud Deployments
+- ⚙️ Backend APIs
+- 📈 Data Engineering
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msk1523&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk1523&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=msk1523&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://portfoliosivakumaran.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/siva-kumaran-manivaannan-012a7724a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mskmss1516@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> *"Code for today. Design for tomorrow. Learn forever."* 🚀
