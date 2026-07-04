@@ -18,41 +18,62 @@ I'm a Software Engineer passionate about building scalable backend systems, AI-p
 
 # 💻 Tech Stack
 
-### Languages
+### 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,java,dart,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,go,java,cs,dart,javascript,typescript,html,css" />
 </p>
 
-### Backend
+---
+
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,firebase" />
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,nestjs,dotnet,firebase" />
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
 
-### Frontend
+---
+
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,flutter" />
 </p>
 
-### Databases
+---
+
+### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,dotnet" />
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-### DevOps & Cloud
+---
+
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### Currently Learning
+---
+
+### ☁️ DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,visualstudio,postman" />
+</p>
+
+---
+
+### 📚 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana" />
 </p>
 
 ---
